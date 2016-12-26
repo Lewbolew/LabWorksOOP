@@ -5,7 +5,7 @@ import flowers.item_with_decorators.Item;
 import java.util.ArrayList;
 
 /**
- * Created by bohdan on 10/4/16.
+ * Flower shop, which contain different bouquets and can choose on of the best.
  */
 public class FlowerShop {
     ArrayList<Item> bouqetList = new ArrayList<>();

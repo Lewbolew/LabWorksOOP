@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by bohdan on 11/1/16.
+ * Implements certain plant - Cactus.
  */
 public class Cactus extends Plant{
     protected CactusSpec spec;

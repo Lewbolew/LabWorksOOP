@@ -1,7 +1,7 @@
 package flowers.parent;
 
 /**
- * Created by bohdan on 10/25/16.
+ * Abstract class we use to make certain implementation fo Flower and Cactus classes.
  */
 public abstract class Spec {
     protected String name = "NonName";

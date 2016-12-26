@@ -1,5 +1,8 @@
 package flowers.enums;
 
+/**
+ * Enum fo different flower colors
+ */
 public enum FlowerColor {
     RED, GREEN, YELLOW, BLUE, PURPLE, PINK, ORANGE, WHITE, NON_COLOR;
 

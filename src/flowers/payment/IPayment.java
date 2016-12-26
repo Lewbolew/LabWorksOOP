@@ -1,7 +1,7 @@
 package flowers.payment;
 
 /**
- * Created by bohdan on 11/8/16.
+ * Interface for the future different concrete implementations of the stategy algorithms.
  */
 public interface IPayment {
     void pay(double price);

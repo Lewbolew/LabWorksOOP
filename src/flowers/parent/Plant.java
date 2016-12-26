@@ -1,7 +1,7 @@
 package flowers.parent;
 
 /**
- * Created by bohdan on 10/25/16.
+ * One of the higher classes. We inherit from it Flower and Cactus
  */
 public abstract class Plant {
     public abstract String  toString();

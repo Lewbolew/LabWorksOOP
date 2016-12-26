@@ -3,6 +3,9 @@ package flowers;
 
 import flowers.enums.FlowerColor;
 
+/**
+ * All fields and methods which can change we delivered into spec class
+ */
 public class FlowerSpec {
     protected String name = "NonName";
     protected FlowerColor color = FlowerColor.NON_COLOR;

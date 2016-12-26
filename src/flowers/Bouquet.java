@@ -8,6 +8,9 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * Class Bouquet represents real bouquet which contain few Flowers and can search add and delete different flowers.
+ */
 public class Bouquet implements Item{
     List<Flower> flowerList;
     String name;

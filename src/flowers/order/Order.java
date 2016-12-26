@@ -10,7 +10,8 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- * Created by bohdan on 11/15/16.
+ * This class represents an observable object, or "data" in the model-view paradigm.
+ * It subclassed to represent an object that the application wants to have observed.
  */
 public class Order extends Observable {
     private List<Observer> observers = new LinkedList<>();

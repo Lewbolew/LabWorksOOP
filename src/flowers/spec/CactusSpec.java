@@ -4,7 +4,7 @@ import flowers.enums.CactusShape;
 import flowers.parent.Spec;
 
 /**
- * Created by bohdan on 10/25/16.
+ * All fields and methods which can change we delivered into spec class
  */
 public class CactusSpec extends Spec {
     CactusShape cactusShape = CactusShape.FORMLESS;

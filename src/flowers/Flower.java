@@ -6,6 +6,9 @@ import flowers.parent.Plant;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Certain implementation of the Flower.
+ */
 public class Flower extends Plant{
     protected FlowerSpec spec;
     static Map<FlowerColor, Double> map = new HashMap<FlowerColor, Double>();

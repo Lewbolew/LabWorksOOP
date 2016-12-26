@@ -1,7 +1,8 @@
 package flowers.payment;
 
 /**
- * Created by bohdan on 11/8/16.
+ * Certain implementation of strategy algorithm.
+ * This algorithm we use When user choose Credit card payment.
  */
 public class CreditCartPaymentStrategy implements IPayment{
     @Override
