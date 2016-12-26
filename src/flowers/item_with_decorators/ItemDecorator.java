@@ -1,7 +1,7 @@
 package flowers.item_with_decorators;
 
 /**
- * Created by bohdan on 11/8/16.
+ * The Decorator class passes a Component to the Decorator constructor to initialize the Component pointer
  */
 public abstract class ItemDecorator implements Item {
     Item item;

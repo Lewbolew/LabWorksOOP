@@ -6,9 +6,9 @@ import flowers.item_with_decorators.Item;
 import java.util.List;
 
 /**
- * Created by bohdan on 12/20/16.
+ * Interface for Fabric class.
  */
-public abstract interface Creator {
+public interface Creator {
     public abstract Item factoryMethod();
     public abstract Item factoryMethod(String name);
     public abstract Item factoryMethod(String name, List<Flower> flowerList);

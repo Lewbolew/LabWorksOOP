@@ -1,7 +1,7 @@
 package flowers.item_with_decorators;
 
 /**
- * Created by bohdan on 11/8/16.
+ * Subclass the original Component class into a Decorator class
  */
 public interface Item {
     String getDescription();

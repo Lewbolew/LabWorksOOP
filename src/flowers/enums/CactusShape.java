@@ -1,7 +1,7 @@
 package flowers.enums;
 
 /**
- * Created by bohdan on 10/25/16.
+ * Enums for different shapes of the cactus
  */
 public enum CactusShape {
     SQUARE, TRIANGLE, TYOCHUN_YAZYK, PODOVHASTYY, ROUND, RECTANGULAR, FORMLESS;

@@ -8,7 +8,8 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- * Created by bohdan on 11/22/16.
+ * Observer. Define a one-to-many dependency between objects so that when one object changes state,
+ * all its dependents are notified and updated automatically.
  */
 public class CactusSapplierObserver implements Observer{
     Observable observable;

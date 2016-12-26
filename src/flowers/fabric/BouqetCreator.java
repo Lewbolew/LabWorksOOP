@@ -7,7 +7,7 @@ import flowers.item_with_decorators.Item;
 import java.util.List;
 
 /**
- * Created by bohdan on 12/20/16.
+ * Certain implementation of the Creator interface, that creates objects of the Bouqet class.
  */
 public class BouqetCreator implements Creator {
 

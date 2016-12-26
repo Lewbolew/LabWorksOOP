@@ -1,7 +1,7 @@
 package flowers.item_with_decorators;
 
 /**
- * Created by bohdan on 11/8/16.
+ * In the ConcreteDecorator class, override any Component method(s) whose behavior needs to be modified
  */
 public class RibbonDecorator extends ItemDecorator {
     Item item;
